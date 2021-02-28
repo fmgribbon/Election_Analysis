@@ -28,7 +28,7 @@ After the analysis of a given election result data file,  the outcome of the rec
 
 ##### Voter Turnout Results 
  
--	The **Denver County** had the largest voter turnout. 
+-	**Denver County** had the largest voter turnout. 
 
 -	Denver county had 82.8% of the voter turnout and 306,055 voters. 
 -	Jefferson County had a 10.5% voter turnout and 38,855 voters.
@@ -39,7 +39,7 @@ After the analysis of a given election result data file,  the outcome of the rec
 -	The candidate Diana DeGette received 73.8% of the total votes and 272,892 votes.
 -	The Raymon Anthony Doane received 3.1% of the total votes and  11,606 votes.
 
--	The _winner of the election_ was _candidate Diana DeGette_ received 73.8% of the total votes and 272,892 votes.
+-	The winner of the election was **candidate Diana DeGette** received 73.8% of the total votes and 272,892 votes.
 
 ## Election Audit Summary
 
