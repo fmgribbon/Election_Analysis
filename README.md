@@ -28,7 +28,9 @@ After the analysis of a given election result data file,  the outcome of the rec
 
 ##### Voter Turnout Results 
  
--	The Denver County had the largest voter turnout. Denver county had 82.8% of the voter turnout and 306,055 voters. 
+-	The Denver County had the largest voter turnout. 
+
+-	Denver county had 82.8% of the voter turnout and 306,055 voters. 
 -	Jefferson County had a 10.5% voter turnout and 38,855 voters.
 -	Arapahoe County had a 6.7% voter turnout and 24,801 voters. 
 
