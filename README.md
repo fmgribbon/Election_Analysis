@@ -45,5 +45,5 @@ After the analysis of a given election result data file,  the outcome of the rec
 
 An election audit script was developed to provide all the information needed to complete the election audit of a recent congressional elections. 
 This script could process election results based on ballot id, county and candidate name. It could be used to tally votes for any elections. 
-To provide more could more information to assist the election audit process modifications to the script could be made. A user input of the election type and election date may be added to the script. With this addition, several type of election (e.g., Congressional, Senate, etc.) results could be generated in any given election date. 
-Historical election results could also be generated. This information could help enhance the audit process.
+To provide more information in the election audit process, modifications to the script could be made. A user input of the election type and election date may be added to the script. With this addition, several type of election (e.g., Congressional, Senate, etc.) results could be generated in any given election date. 
+Historical election results could also be generated. This information could assist in the audit process.
